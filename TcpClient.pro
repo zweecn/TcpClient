@@ -14,3 +14,7 @@ SOURCES += main.cpp\
         dialog.cpp
 
 HEADERS  += dialog.h
+
+OTHER_FILES += \
+    README.txt
+
